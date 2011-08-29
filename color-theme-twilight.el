@@ -112,7 +112,7 @@
 	  (gui-element ((t (:background "#D4D0C8" :foreground "black"))))
 	  (region ((t (:background "#27292A"))))
 	  (mode-line ((t (:background "grey75" :foreground "black"))))
-	  (highlight ((t (:background "#111111"))))
+	  (highlight ((t (:background "#000000"))))
 	  (highline-face ((t (:background "SeaGreen"))))
 	  (left-margin ((t (nil))))
 	  (text-cursor ((t (:background "yellow" :foreground "black"))))
